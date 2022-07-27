@@ -1,3 +1,9 @@
+**Original**: [dhananjaylatkar/cscope_maps.nvim](https://github.com/dhananjaylatkar/cscope_maps.nvim)
+
+Changes from original:
+* Change keymap prefix form `<leader>c` to `<C-\>`
+* Remove prompt before executing action.
+
 # cscope_maps.nvim
 For old school code navigation :).
 
